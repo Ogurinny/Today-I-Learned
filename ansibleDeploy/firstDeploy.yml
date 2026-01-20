@@ -1,0 +1,18 @@
+- name: "nginx Install on container"
+  hosts: cont_Contoh
+  become: yes
+
+  tasks:
+    - name: "update repo"
+      apt:
+        update_cache: yes
+
+    - name: "Install nginx"
+      apt:
+        name: nginx
+        state: present
+
+    - name: "Turn on nginx service"
+      service:
+        name: nginx
+        state: started
