@@ -1,0 +1,21 @@
+.kotak {
+  width: 60px;
+  height: 60px;
+}
+
+.blok-tengah {
+  display: flex;
+  flex-direction: start;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.K1 {
+  background-color: green;
+
+}
+
+.K2 {
+  background-color: black;
+}
