@@ -135,8 +135,8 @@ dist
 
 #node jaga jaga
 node_modules/
-.wwebjs_auth/
-.wwebjs_cache/
+**js/.wwebjs_auth/
+**/.wwebjs_auth
 
 
 #log error 
