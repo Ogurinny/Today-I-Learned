@@ -38,7 +38,6 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
@@ -133,6 +132,14 @@ dist
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+#node jaga jaga
+node_modules/
+.webjs_auth/
+.webjs_cache/
+
+#log error 
+npm-debug.log*
 
 # Vite logs files
 vite.config.js.timestamp-*
