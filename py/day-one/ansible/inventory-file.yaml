@@ -1,0 +1,10 @@
+all:
+  hosts:
+    deb1:
+      ansible_host: 10.10.10.14
+      ansible_user: admin
+      ansible_ssh_pass: 28022009
+    deb:
+      ansible_host: 10.10.10.13
+      ansible_user: admmin
+      ansible_ssh_pass: 28022009
