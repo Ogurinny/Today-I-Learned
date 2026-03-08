@@ -1,6 +1,13 @@
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+<div align="center">
+	<h1> ✦ Repo Buat belajarr  ✦</h1>
+	<p>my gw lagi Belajarrrr</p>
+	<img src="https://img.shields.io/badge/kink python-3776AB?style=for-	the-badge&logo=python&logoColor=white" /> 
+	<img src="https://img.shields.io/badge/King bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+	<img src="https://img.shields.io/badge/kink jees-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+
+
+</div>
+<p align="center">  <b>btw bukankah ini my</b>  </p>
+<p align="center"> <img src="https://media1.tenor.com/m/9sr64CjMCZwAAAAC/oguri-cap-oguri.gif" width="300" alt="oguri"> </p>
+<p align="center"><b>uogh</b><br>bingung jir mau milih yang mana duluan</p>
+
