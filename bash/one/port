@@ -1,0 +1,4 @@
+jalan 8080
+#fungsi tidak ada
+# nama="androo"
+echo "kenapa $nama?"
