@@ -1,4 +1,6 @@
-let username: string = "nigga";
-let age: number = 99;
+let sane: string = "Andra";
 
-console.log(age)
+function pesan() {
+  console.log("Haloooo", sane);
+}
+pesan();

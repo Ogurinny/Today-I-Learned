@@ -1,9 +1,0 @@
----
-- name: Yang baruuu
-  hosts: all
-  become: true
-  tasks:
-    - name: install aplikasi
-      apt:
-        name: nginx
-        state: present
