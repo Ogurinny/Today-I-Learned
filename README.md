@@ -11,3 +11,5 @@
 <p align="center"> <img src="https://media1.tenor.com/m/9sr64CjMCZwAAAAC/oguri-cap-oguri.gif" width="300" alt="oguri"> </p>
 <p align="center"><b>uogh</b><br>bingung jir mau milih yang mana duluan</p>
 
+
+<p><b>Waw,dah 2 minggu gwe kagak belajar aokwokawkowaok,moga moga aja gak lupa dah</b></p>
