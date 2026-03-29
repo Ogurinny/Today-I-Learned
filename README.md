@@ -12,4 +12,4 @@
 <p align="center"><b>uogh</b><br>bingung jir mau milih yang mana duluan</p>
 
 
-<p><b>Waw,dah 2 minggu gwe kagak belajar aokwokawkowaok,moga moga aja gak lupa dah</b></p>
+<p align="center"><b>Waw,dah 2 minggu gwe kagak belajar aokwokawkowaok,moga moga aja gak lupa dah</b></p>
