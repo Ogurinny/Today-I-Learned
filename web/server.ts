@@ -1,7 +1,7 @@
 import { serve } from "bun";
 
 serve({
-  port: 3000,
+  port: 8022,
   fetch(req) {
     const url = new URL(req.url);
     if (url.pathname === "/") {

@@ -1,0 +1,16 @@
+┌──(matt㉿machitan)-[/mnt/c/Users/harph]
+└─$ echo "eee" | nc candy-mountain.picoctf.net 55669
+⊹──────[ BYTEMANCY-0 ]──────⊹
+☍⟐☉⟊☽☈⟁⧋⟡☍⟐☉⟊☽☈⟁⧋⟡☍⟐☉⟊☽☈⟁⧋⟡☍⟐
+
+Send me ASCII DECIMAL 101, 101, 101, side-by-side, no space.
+
+☍⟐☉⟊☽☈⟁⧋⟡☍⟐☉⟊☽☈⟁⧋⟡☍⟐☉⟊☽☈⟁⧋⟡☍⟐
+⊹─────────────⟡─────────────⊹
+==> picoCTF{pr1n74813_ch4r5_9b465df3}
+
+┌──(matt㉿machitan)-[/mnt/c/Users/harph]
+└─$
+
+
+4/11/2026 6:56 PM
