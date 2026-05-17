@@ -1,0 +1,15 @@
+/tmp = 2GiB menggunakan tmpfs
+/dev/shm = tmpfs
+
+
+XFS
+/var = 5GiB
+/var/log = 5GiB
+/var/log/audit = 5GiB
+/var/tmp = 2GiB
+
+/home = 10GiB
+/ = 20GiB
+/boot = 1GiB
+
+

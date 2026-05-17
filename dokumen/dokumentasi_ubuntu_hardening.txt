@@ -1,0 +1,39 @@
+Dokumentasi pemahaman Hardening ubuntu 24 LTS
+
+Sebelum memulai,disini saya akan mengevaluasi kemampuan diri sendiri
+Pertama,Apa itu server?
+	Server adalah sebuah perangkat yang berfungsi sebagai penyedia berbagai layanan,mau itu web server dan kawan2.
+	Tanpa server,mungkin kita tak bisa menikmati Tontonan yang kita tonton di Reels Instagram misalnya atau Video Youtube di internet,atau
+	saling chat/mengirim pesan secara cepat seperti wa atau meeting/video call/panggilan video...Semuanya berjalan di satu komputer,yaitu server.
+	
+	
+
+Pertama,SSH
+	1.Pastikan PermitRootLogin sudah di ganti ke
+	'no';
+	2.Ganti Port default dari 22 ke 2202 
+	3.Kunci Akses hanya untuk 2 User:
+				- Admin
+				- Engginier
+	4.Timeout pada User yang terlalu lama 
+	AFK(menghindari di bajak oleh orang2 asing)
+	>Disini,Client akan di kick jika tak ada
+	Aktivitas selama 5 menit(pada simulasi ini
+	kita akan buat 30 detik untuk testing.
+	5.AllowUsers,Jadi hanya beberapa User saja yang bisa remote
+	ssh server tersebut.
+	6.Fail2Ban,Mencegah brute force attack dari pihak yang tidak bertanggung jawab
+
+Kedua OS
+	Dalam Bagian OS,Kita akan melakukan Hardening pada level sistem,bukan hanya software
+	1.Mematikan Service yang tidak penting untuk Server
+						- Cups = Tools/Service untuk mengkonfigurasi dan menggunakan printer di linux;
+						- Avahi = Tools/Service untuk mempermudah dalam mengenali perangkat satu sama lain.
+	2.Menutup Port yang tak penting
+				- Misalnya kita akan mematikan port dari cups/printer service
+										- port 631
+				
+						
+	
+	
+	

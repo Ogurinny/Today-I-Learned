@@ -1,0 +1,8 @@
+Syntax penggunaan UFW
+
+ufw,atau uncomplicated firewall adalah software konfigurasi firewall(iptables) pada os yang berjalan di atas kernel linux.Sesuai namanya,ufw sebagai warper iptables,yang artinya mempermudah kita dalam memanajamen firewall di OS berbasis linux(kita sbeut saja ubuntu),Sehingga kita tak perlu berurusan dengan syntax iptables yang ribet.
+
+Contoh penggunaannya
+		sudo ufw enable # berfungsi untuk menyalakan service ufw pada ubuntu
+		
+		
